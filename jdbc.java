@@ -20,7 +20,7 @@ public class XyzJdbc {
         // mysql用户名
         String user = "root";
         // 密码
-        String password = "qq282246101";
+        String password = "xxxxx";
         /*
          * try {
          * Class.forName("com.mysql.cj.jdbc.driver");
